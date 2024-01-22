@@ -1,0 +1,16 @@
+{
+  "name": "WarmUpJs",
+  "version": "1.0.0",
+  "description": "a tiny wrapper for warming up serverless services before use",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}

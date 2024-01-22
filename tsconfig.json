@@ -1,0 +1,10 @@
+{
+  "include":["./index.ts"],
+  "compilerOptions": {
+    "target":"es2015",
+    "allowJs":true,
+    "declaration":true,
+    "outDir":"dist",
+    "declarationMap":true
+  }
+}
