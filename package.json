@@ -1,5 +1,5 @@
 {
-  "name": "WarmUpJs",
+  "name": "warmupjs",
   "version": "1.0.0",
   "description": "a tiny wrapper for warming up serverless services before use",
   "main": "dist/index.js",
